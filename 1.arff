@@ -1,0 +1,16 @@
+% ARFF file for the weather data with some numeric features
+% 
+@relation Data
+@attribute HABIT { Gabby, Quiet}
+@attribute EATS {Baked,Roasted,Fried}
+@attribute FOOTWEAR {Clogs,Sandals}
+@attribute Class? { Students, Professor }
+
+@data
+%
+% 1 instances
+%
+Quiet,Roasted,Clogs,Professor
+
+
+
